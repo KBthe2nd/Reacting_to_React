@@ -1,0 +1,41 @@
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px;
+    border-radius: 5px;
+    border-color: blue;
+    color: orange;
+
+}
+
+input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    color: white;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    color: darkgreen;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: darksalmon;
+    font-weight: 700;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lawngreen;
+}
